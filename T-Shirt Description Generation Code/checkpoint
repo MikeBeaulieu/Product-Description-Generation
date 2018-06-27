@@ -1,0 +1,2 @@
+model_checkpoint_path: "savetshirts"
+all_model_checkpoint_paths: "savetshirts"
